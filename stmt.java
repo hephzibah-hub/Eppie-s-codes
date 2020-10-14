@@ -5,10 +5,16 @@
  */
 package com.file;
 
+import java.sql.ResultSet;
+
 /**
  *
  * @author Richeal Ayettey
  */
-public class NewClass {
+class stmt {
+
+    static ResultSet executeQuery(String query) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

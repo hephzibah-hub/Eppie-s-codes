@@ -9,6 +9,6 @@ package com.file;
  *
  * @author Richeal Ayettey
  */
-public class NewClass {
+class Connect {
     
 }
